@@ -3,3 +3,4 @@
 3. Use the driver navigator technique
 4. Use a colored coded calendar and add  of personal time.
 5. Use Pom breaks in my own worktime.
+6. Thank you to all the supportive peers at Turing.
